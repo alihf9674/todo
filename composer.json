@@ -1,0 +1,21 @@
+{
+    "name": "ali/7todo",
+    "description": "A simple Todo List project (with Ajax,Php and Mysql)",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ali\\7todo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alihf9674",
+            "email": "87331595+alihf9674@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "hekmatinasser/verta": "^1.12"
+    }
+}
