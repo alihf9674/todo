@@ -1,7 +1,7 @@
 <?php 
-$dataBase_config=array(
-    'host'=>'localhost',
-    'user'=>'root',
-    'pass'=>'',
-    'db'=>'7task'
-);
+$database_config = (object)[
+    'host' => 'localhost',
+    'user' => 'root',
+    'pass' => '',
+    'db' => '7todo'
+];
